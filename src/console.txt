@@ -1,0 +1,16 @@
+[Startup] Starting application...
+[Startup] Found file ../commands/ping.js
+[Startup] Registring ping command
+[Startup] Found file ../events/ready.js
+[Startup] Registring ready event
+[Startup] Started refreshing application (/) commands.
+[Startup] Successfully reloaded application (/) commands.
+[Startup] Logging bot in...
+==============================================================
+Username   : Gerald Events
+Tag        : #6427
+ClientID   : 1090861012518969344 
+==============================================================
+Thu Mar 30 2023 13:37:21 GMT+0800 (Singapore Standard Time)
+==============================================================
+[Client] Bot has been logged in.
