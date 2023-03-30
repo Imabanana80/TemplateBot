@@ -1,0 +1,4 @@
+TOKEN=<bot token>
+GUILDID=<dev server guild id>
+CONSOLEWEBHOOK=<discord webhook to send console>
+ERRWEBHOOK=<discord webhook to send errors to>
