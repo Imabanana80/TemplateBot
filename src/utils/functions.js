@@ -1,6 +1,6 @@
 const { EmbedBuilder } = require("discord.js");
 
-async function errorMessage(interaction, err) {
+async function errorMessage(client, interaction, err) {
   const errembed = new EmbedBuilder()
     .setTitle(
       `An error occured whilst trying to run ${`${interaction}`.split(" ")[0]}`
